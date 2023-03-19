@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidNangCao/ASM/app/src/main/res/drawable/boder.xml" value="0.1205" />
+        <entry key="..\:/AndroidNangCao/ASM/app/src/main/res/drawable/boder_course.xml" value="0.1205" />
+        <entry key="..\:/AndroidNangCao/ASM/app/src/main/res/drawable/boder_radius.xml" value="0.1245" />
+        <entry key="..\:/AndroidNangCao/ASM/app/src/main/res/drawable/boder_strock.xml" value="0.177" />
+        <entry key="..\:/AndroidNangCao/ASM/app/src/main/res/drawable/ic_calendar.xml" value="0.1205" />
+        <entry key="..\:/AndroidNangCao/ASM/app/src/main/res/drawable/ic_calender.xml" value="0.1205" />
+        <entry key="..\:/AndroidNangCao/ASM/app/src/main/res/drawable/ic_course.xml" value="0.1245" />
+        <entry key="..\:/AndroidNangCao/ASM/app/src/main/res/drawable/ic_dangki.xml" value="0.1245" />
+        <entry key="..\:/AndroidNangCao/ASM/app/src/main/res/drawable/ic_khoa_hoc_da_dang_ki.xml" value="0.1205" />
+        <entry key="..\:/AndroidNangCao/ASM/app/src/main/res/drawable/ic_vien_signup.xml" value="0.1245" />
+        <entry key="..\:/AndroidNangCao/ASM/app/src/main/res/drawable/rect.xml" value="0.1245" />
+        <entry key="..\:/AndroidNangCao/ASM/app/src/main/res/drawable/rect_bot.xml" value="0.1245" />
+        <entry key="..\:/AndroidNangCao/ASM/app/src/main/res/drawable/rect_top.xml" value="0.1245" />
+        <entry key="..\:/AndroidNangCao/ASM/app/src/main/res/layout/activity_co_so.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidNangCao/ASM/app/src/main/res/layout/activity_courses.xml" value="0.2" />
+        <entry key="..\:/AndroidNangCao/ASM/app/src/main/res/layout/activity_custom_tab.xml" value="0.1578125" />
+        <entry key="..\:/AndroidNangCao/ASM/app/src/main/res/layout/activity_danh_sach_khoa_hoc.xml" value="0.18" />
+        <entry key="..\:/AndroidNangCao/ASM/app/src/main/res/layout/activity_khoa_hoc_da_dang_ky_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidNangCao/ASM/app/src/main/res/layout/activity_login.xml" value="0.17083333333333334" />
+        <entry key="..\:/AndroidNangCao/ASM/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/AndroidNangCao/ASM/app/src/main/res/layout/activity_man_hinh_chao.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidNangCao/ASM/app/src/main/res/layout/activity_map.xml" value="0.19010416666666666" />
+        <entry key="..\:/AndroidNangCao/ASM/app/src/main/res/layout/activity_news.xml" value="0.19010416666666666" />
+        <entry key="..\:/AndroidNangCao/ASM/app/src/main/res/layout/activity_read_news.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidNangCao/ASM/app/src/main/res/layout/activity_sign_up.xml" value="0.18" />
+        <entry key="..\:/AndroidNangCao/ASM/app/src/main/res/layout/dialog_addcourse.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidNangCao/ASM/app/src/main/res/layout/dialog_login.xml" value="0.22" />
+        <entry key="..\:/AndroidNangCao/ASM/app/src/main/res/layout/dialog_signup.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidNangCao/ASM/app/src/main/res/layout/fragment_maps.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidNangCao/ASM/app/src/main/res/layout/fragment_test.xml" value="0.1" />
+        <entry key="..\:/AndroidNangCao/ASM/app/src/main/res/layout/fragment_thong_tin.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidNangCao/ASM/app/src/main/res/layout/item_app.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidNangCao/ASM/app/src/main/res/layout/item_course.xml" value="0.25" />
+        <entry key="..\:/AndroidNangCao/ASM/app/src/main/res/layout/item_list_courses.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidNangCao/ASM/app/src/main/res/layout/item_thongtin_course.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidNangCao/ASM/app/src/main/res/menu/menu_courses.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

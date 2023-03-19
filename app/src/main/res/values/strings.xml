@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ASM</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="facebook_app_id">799458057774611</string>
+    <string name="fb_login_protocol_scheme">fb1234</string>
+    <string name="facebook_client_token">0a3d67aac1dc771812a6baa3163e9dcf</string>
+</resources>
